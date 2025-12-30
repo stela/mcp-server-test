@@ -1,0 +1,11 @@
+{
+  "preferences": {
+    "quickEntryShortcut": "double-tap-option"
+  },
+  "mcpServers": {
+    "mcp-demo": {
+      "command": "java",
+      "args": ["-jar", "/Users/stela/IdeaProjects/mcp-server-test/build/libs/mcp-server-test-1.0-SNAPSHOT.jar"]
+    }
+  }
+}

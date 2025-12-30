@@ -103,7 +103,7 @@ Or using Gradle directly:
 Add the server configuration:
 
 ```bash
-claude mcp add mcp-demo java -jar /path/to/mcp-server-test-1.0-SNAPSHOT.jar
+claude mcp add --transport stdio mcp-demo -- java -jar /path/to/mcp-server-test-1.0-SNAPSHOT.jar
 ```
 
 Or edit `~/.claude/settings.json`:
