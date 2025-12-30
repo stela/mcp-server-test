@@ -84,20 +84,6 @@ Add to your Claude Desktop configuration (`claude_desktop_config.json`):
 }
 ```
 
-Or using Gradle directly:
-
-```json
-{
-  "mcpServers": {
-    "mcp-demo": {
-      "command": "/path/to/project/gradlew",
-      "args": ["bootRun", "--quiet"],
-      "cwd": "/path/to/project"
-    }
-  }
-}
-```
-
 ### Claude Code
 
 Add the server configuration:
