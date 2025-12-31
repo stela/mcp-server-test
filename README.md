@@ -53,7 +53,7 @@ Pre-defined prompt templates:
 ## Building
 
 ```bash
-./gradlew build
+./gradlew bootJar
 ```
 
 ## Running
