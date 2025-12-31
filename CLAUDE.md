@@ -21,6 +21,7 @@ This is an MCP (Model Context Protocol) server built with Spring AI 2.0.0-M1 and
 
 ### Technology Stack
 - Java 25
+- Gradle with Kotlin DSL (`build.gradle.kts`)
 - Spring Boot 4.0.1 / Spring Framework 7.0
 - Spring AI 2.0.0-M1 (milestone release from `repo.spring.io/milestone`)
 - MCP Java SDK 0.17.0
